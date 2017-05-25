@@ -6,4 +6,4 @@ Capstone Game Project
 - **Definition and Requirements:**  Marvelous
 - **Testing:**  Nate (Me)
 - **Design:**  Matthew
-- **Coding:**  Jesse & Willia
+- **Coding:**  Jesse & William
