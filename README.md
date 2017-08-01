@@ -7,8 +7,3 @@ Capstone Game Project
 - **Testing:**  Nate (Me)
 - **Design:**  Matthew
 - **Coding:**  Jesse & William
-
-| Column one | Column two |
------------ | ------------
-| Blue | isgood |
-| Red | alsogood |
