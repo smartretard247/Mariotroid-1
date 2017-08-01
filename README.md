@@ -8,6 +8,6 @@ Capstone Game Project
 - **Design:**  Matthew
 - **Coding:**  Jesse & William
 | Column one | Column two |
------------------------
+----------- | ------------
 | Blue | isgood |
 | Red | alsogood |
